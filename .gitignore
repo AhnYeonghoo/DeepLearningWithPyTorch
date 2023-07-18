@@ -3,3 +3,4 @@ data/
 *.pb
 *.pbtxt
 *.ckpt
+retinaNet/content/

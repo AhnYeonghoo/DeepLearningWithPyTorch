@@ -4,3 +4,4 @@ data/
 *.pbtxt
 *.ckpt
 retinaNet/content/
+efficientNet/models/
